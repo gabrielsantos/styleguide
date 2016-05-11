@@ -1,0 +1,2 @@
+.b-image__canvas { border: 0; }
+.b-image__canvas.bordered { border: 1px solid #DDD; }
